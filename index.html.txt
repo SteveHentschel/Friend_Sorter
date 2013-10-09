@@ -10,5 +10,6 @@
 		<div class="enemy" id="archnemesis"><p>Fred</p></div>
 		<div class="friend"><p>Greg</p></div>
 		<div class="family"><p>Phil</p></div>
+		<div class="family"><p>Test</p></div>
 	</body>
 </html>
